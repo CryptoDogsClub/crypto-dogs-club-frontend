@@ -1,0 +1,23 @@
+{
+  "short_name": "CryptoDogs",
+  "name": "Crypto Dogs Club",
+  "description": "10,000 Unique CryptoDogs are floating around on the open sea waiting for your help.",
+  "homepage_url": "https://cryptodogsclub.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#EFC76C",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
